@@ -18,6 +18,12 @@
 ---
 
 </div>
+## Voice Agent
+
+[![M8ven Score](https://m8ven.ai/badge/mcp/abhishekanand2894-voice-agent-srbnnz?v=d7498993b7422085d80cff0b8389beb8)](https://m8ven.ai/mcp/abhishekanand2894-voice-agent-srbnnz?s=readme)
+
+An AI-powered Voice Agent built using Python and MCP.
+
 
 ## 🌟 Overview
 
